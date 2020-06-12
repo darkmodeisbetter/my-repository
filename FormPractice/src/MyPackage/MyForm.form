@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MyPackage.MyForm">
+  <grid id="27dc6" binding="panel1" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="80" y="31" width="440" height="389"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="92ac2" class="javax.swing.JLabel" binding="title1">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <font size="16" style="1"/>
+          <horizontalAlignment value="2"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Form Guidelines"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
